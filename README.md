@@ -18,6 +18,8 @@
 
 https://daje0601.tistory.com/321
 
+Style mixing using custom sementic space
+
 #### Asyrp
 
 https://arxiv.org/abs/2210.10960
@@ -25,3 +27,7 @@ https://arxiv.org/abs/2210.10960
 #### Style clip
 
 https://arxiv.org/abs/2103.17249
+
+### Diff style
+
+https://prompt-to-prompt.github.io/ptp_files/Prompt-to-Prompt_preprint.pdf
