@@ -12,4 +12,8 @@
 
 #### FFHQ
 
-#### Global coherence
+#### Global, local coherence
+
+#### CLIPCAP (Image Caption)
+
+https://daje0601.tistory.com/321
