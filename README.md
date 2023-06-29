@@ -31,3 +31,8 @@ https://arxiv.org/abs/2103.17249
 ### Diff style
 
 https://prompt-to-prompt.github.io/ptp_files/Prompt-to-Prompt_preprint.pdf
+
+#### Plug and play
+Plug-and-Play Diffusion Features for Text-Driven Image-to-Image Translation
+
+https://arxiv.org/pdf/2211.12572.pdf
