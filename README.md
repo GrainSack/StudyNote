@@ -17,3 +17,7 @@
 #### CLIPCAP (Image Caption)
 
 https://daje0601.tistory.com/321
+
+#### Asyrp
+
+https://arxiv.org/abs/2210.10960
