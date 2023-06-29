@@ -32,6 +32,11 @@ https://arxiv.org/abs/2103.17249
 
 https://prompt-to-prompt.github.io/ptp_files/Prompt-to-Prompt_preprint.pdf
 
+#### Diffusion clip
+
+https://arxiv.org/abs/2110.02711
+
+
 #### Plug and play
 Plug-and-Play Diffusion Features for Text-Driven Image-to-Image Translation
 
