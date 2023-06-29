@@ -21,3 +21,7 @@ https://daje0601.tistory.com/321
 #### Asyrp
 
 https://arxiv.org/abs/2210.10960
+
+#### Style clip
+
+https://arxiv.org/abs/2103.17249
